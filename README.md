@@ -26,4 +26,5 @@ ConfigMap:
 Service:
 
 1)Services help your app talk to the outside world or other parts of your app.
+
 2)They provide a stable way for other apps or users to find and access your app.
